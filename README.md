@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @aa-io
+- Founder & CTO/CPO at @catch-co
