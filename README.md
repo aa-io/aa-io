@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @aa-io
-- Founder & CTO/CPO at @catch-co
+- Head of Product at @noyo-technologies
+- Prev: Founder & CTO/CPO at @catch-co
