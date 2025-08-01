@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @aa-io
-- Head of Product at @noyo-technologies
+- Member of Technical Staff at @openai
+- Prev: Head of Product at @noyo-technologies
 - Prev: Founder & CTO/CPO at @catch-co
